@@ -1,5 +1,4 @@
 <img src="LinkedinBanner_Valiente.png">
-<h1 align="center">Sean Nathaniel Valiente</h1>
 <h3 align="center">An aspiring developer from the Philippines</h3>
 
 # >About Me:
