@@ -26,4 +26,3 @@ Currently a graduating IT student
 
 - Reach me @ **snmvaliente@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitevale&show_icons=true&locale=en" alt="nitevale" /></p>
