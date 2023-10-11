@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sean Valiente</h1>
+<h1 align="center">Sean Nathaniel Valiente</h1>
 <h3 align="center">An aspiring developer from the Philippines</h3>
 
 # >About Me:
