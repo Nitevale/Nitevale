@@ -22,7 +22,5 @@ Currently a graduating IT student
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitevale&label=Profile%20views&color=0e75b6&style=flat" alt="nitevale" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitevale" alt="nitevale" /></a> </p>
-
 - Reach me @ **snmvaliente@gmail.com**
 
