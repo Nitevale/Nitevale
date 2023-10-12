@@ -1,11 +1,11 @@
 <img src="LinkedinBanner_Valiente.png">
 <h3 align="center">An aspiring developer from the Philippines</h3>
 
-# >About Me:
+# >About:
 Currently a graduating IT student
 
 
-# >Connect with me:
+# >Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/snmvaliente) 
 
 # >Skillset:
