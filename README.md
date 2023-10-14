@@ -1,13 +1,13 @@
 <img src="LinkedinBanner_Valiente.png">
 <h3 align="center">An aspiring developer from the Philippines</h3>
 
-<div id="header" align="center">
+<!--<div id="header" align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=An+aspiring+developer)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=from+the+Philippines)](https://git.io/typing-svg)
   
-</div>
+</div>-->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
