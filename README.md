@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring developer from the Philippines</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
 </div>
 
 # >About:
@@ -30,6 +30,10 @@ Currently a graduating IT student
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitevale&label=Profile%20views&color=0e75b6&style=flat" alt="nitevale" /> </p>
 
 - Reach me @ **snmvaliente@gmail.com**
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
 
 
 
