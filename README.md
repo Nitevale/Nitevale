@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
 </div>
 
-# >About:
+# <img src="[https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif](https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif)" width="100"/> About:
 Currently a graduating IT student
 
 
