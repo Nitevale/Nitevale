@@ -26,7 +26,7 @@ Currently a graduating IT student
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitevale&label=Profile%20views&color=0e75b6&style=flat" alt="nitevale" /> </p>
 
 - Reach me @ **snmvaliente@gmail.com**
-- 
+
 ###
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
