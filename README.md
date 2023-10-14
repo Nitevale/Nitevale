@@ -4,6 +4,8 @@
 <div id="header" align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=An+aspiring+developer;from+the+Philippines)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=from+the+Philippines)](https://git.io/typing-svg)
   
 </div>
 
