@@ -1,7 +1,11 @@
 <img src="LinkedinBanner_Valiente.png">
 <h3 align="center">An aspiring developer from the Philippines</h3>
 
+<div id="header" align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=An+aspiring+developer+from+the+Philippines;Second+line+of+text)](https://git.io/typing-svg)
+  
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
