@@ -28,8 +28,6 @@ Currently a graduating IT student
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitevale&label=Profile%20views&color=0e75b6&style=flat" alt="nitevale" /> </p>
-
 <div align=center>
 <h2 align="center">Certificates</h2>
     <table border="1">
@@ -51,6 +49,8 @@ Currently a graduating IT student
         </tr>
     </table>
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitevale&label=Profile%20views&color=0e75b6&style=flat" alt="nitevale" /> </p>
 
 - Reach me @ **snmvaliente@gmail.com**
 
