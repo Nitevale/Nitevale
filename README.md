@@ -27,11 +27,5 @@ Currently a graduating IT student
 
 - Reach me @ **snmvaliente@gmail.com**
 
-###
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Nitevale&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
