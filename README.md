@@ -34,7 +34,7 @@ Currently a graduating IT student
 <h2 align="center">Certificates</h2>
     <table border="1">
         <tr>
-            <th>Name</th>
+            <th>Certificate Title</th>
             <th>Date</th>
         </tr>
         <tr>
