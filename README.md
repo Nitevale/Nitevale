@@ -1,15 +1,13 @@
 <img src="LinkedinBanner_Valiente.png">
 <h3 align="center">An aspiring developer from the Philippines</h3>
 
-<!--<div id="header" align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=An+aspiring+developer)](https://git.io/typing-svg)
+<div id="header" align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=from+the+Philippines)](https://git.io/typing-svg)
-  
-</div>-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&multiline=true&random=false&width=435&height=75&lines=An+aspiring+developer;from+the+Philippines" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&multiline=true&random=false&width=435&lines=An+aspiring+developer;from+the+Philippines" alt="Typing SVG" /></a>
+</div>
+
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
