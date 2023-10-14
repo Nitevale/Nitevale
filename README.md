@@ -9,6 +9,8 @@
   
 </div>-->
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&multiline=true&random=false&width=435&lines=An+aspiring+developer;from+the+Philippines" alt="Typing SVG" /></a>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
 </div>
