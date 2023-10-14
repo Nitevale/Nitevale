@@ -32,7 +32,6 @@ Currently a graduating IT student
 
 <div align=center>
 <h2 align="center">Certificates</h2>
-<br/>
     <table border="1">
         <tr>
             <th>Name</th>
