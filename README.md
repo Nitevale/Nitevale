@@ -30,6 +30,29 @@ Currently a graduating IT student
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitevale&label=Profile%20views&color=0e75b6&style=flat" alt="nitevale" /> </p>
 
+<div align=center>
+<h2 align="center">Certificates</h2>
+<br/>
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Date</th>
+        </tr>
+        <tr>
+            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=723FFD2D149CC24E18DCCDFFBC8B1BD045ED3685A381D759157621A23088914D">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
+            <td>2021-12-09</td>
+        </tr>
+        <tr>
+            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DE603518A94C526041B4FE5A653E805E66787689AE4AC18AF477FA6BE074CA96">Oracle Cloud Infrastructure Foundations 2021 Associate</a></td>
+            <td>2021-12-21</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/2ab47c9a759c721696d1bd3b4835de4030871720">DataCamp: Understanding Data Engineering</a></td>
+            <td>2022-04-27</td>
+        </tr>
+    </table>
+</div>
+
 - Reach me @ **snmvaliente@gmail.com**
 
 <div id="header" align="center">
