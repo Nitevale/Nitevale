@@ -1,5 +1,6 @@
 <img src="LinkedinBanner_Valiente.png">
 <h3 align="center">An aspiring developer from the Philippines</h3>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=An+aspiring+developer+from+the+Philippines;Second+line+of+text)](https://git.io/typing-svg)
 
 <div id="header" align="center">
