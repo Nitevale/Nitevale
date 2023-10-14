@@ -1,5 +1,4 @@
 <img src="LinkedinBanner_Valiente.png">
-<h3 align="center">An aspiring developer from the Philippines</h3>
 
 <div id="header" align="center">
 
