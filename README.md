@@ -56,7 +56,7 @@ Currently a graduating IT student
         </tr>
         <tr>
             <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E699D8D34782A96931D22D01A7B87A9AD096B95D01450AD1E1D2DE61B36120FE">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a></td>
-            <td>2022-04-27</td>
+            <td>2023-11-07</td>
         </tr>
     </table>
 </div>
