@@ -54,6 +54,10 @@ Currently a graduating IT student
             <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/2ab47c9a759c721696d1bd3b4835de4030871720">DataCamp: Understanding Data Engineering</a></td>
             <td>2022-04-27</td>
         </tr>
+        <tr>
+            <td><a href="[https://www.datacamp.com/completed/statement-of-accomplishment/course/2ab47c9a759c721696d1bd3b4835de4030871720](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E699D8D34782A96931D22D01A7B87A9AD096B95D01450AD1E1D2DE61B36120FE)">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a></td>
+            <td>2022-04-27</td>
+        </tr>
     </table>
 </div>
 
