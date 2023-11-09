@@ -57,6 +57,10 @@ Currently a graduating IT student
         <tr>
             <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E699D8D34782A96931D22D01A7B87A9AD096B95D01450AD1E1D2DE61B36120FE" target="_blank">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a></td>
             <td>2023-11-07</td>
+        </tr> 
+        <tr>
+            <td><a href="https://courses.cognitiveclass.ai/certificates/af8599b9bacb41b58de30304bfbdd8b7" target="_blank">SQL and Relational Databases 101</a></td>
+            <td>2023-11-09</td>
         </tr>
     </table>
 </div>
