@@ -59,6 +59,10 @@ Currently a graduating IT student
             <td>2023-11-07</td>
         </tr> 
         <tr>
+            <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/4cacdc40ba04c077f357787e1aae5f27d62a068d" target="_blank">DataCamp: Data Manipulation in SQL</a></td>
+            <td>2023-11-12</td>
+        </tr>
+        <tr>
             <td><a href="https://courses.cognitiveclass.ai/certificates/af8599b9bacb41b58de30304bfbdd8b7" target="_blank">SQL and Relational Databases 101</a></td>
             <td>2023-11-09</td>
         </tr>
