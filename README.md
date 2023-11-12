@@ -43,24 +43,28 @@ Currently a graduating IT student
             <th>Date</th>
         </tr>
         <tr>
-            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=723FFD2D149CC24E18DCCDFFBC8B1BD045ED3685A381D759157621A23088914D" target="_blank">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
-            <td>2021-12-09</td>
+            <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/4cacdc40ba04c077f357787e1aae5f27d62a068d" target="_blank">DataCamp: Data Manipulation in SQL</a></td>
+            <td>2023-11-11</td>
         </tr>
         <tr>
-            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DE603518A94C526041B4FE5A653E805E66787689AE4AC18AF477FA6BE074CA96" target="_blank">Oracle Cloud Infrastructure Foundations 2021 Associate</a></td>
-            <td>2021-12-21</td>
+            <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/1ed620d17b3daaff60324176eed41b2a60cdebd9" target="_blank">DataCamp: Introduction To Python</a></td>
+            <td>2023-11-12</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/2ab47c9a759c721696d1bd3b4835de4030871720" target="_blank">DataCamp: Understanding Data Engineering</a></td>
+            <td>2022-04-27</td>
+        </tr>
+        <tr>
+            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=723FFD2D149CC24E18DCCDFFBC8B1BD045ED3685A381D759157621A23088914D" target="_blank">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
+            <td>2021-12-09</td>
         </tr>
         <tr>
             <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E699D8D34782A96931D22D01A7B87A9AD096B95D01450AD1E1D2DE61B36120FE" target="_blank">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a></td>
             <td>2023-11-07</td>
         </tr> 
         <tr>
-            <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/2ab47c9a759c721696d1bd3b4835de4030871720" target="_blank">DataCamp: Understanding Data Engineering</a></td>
-            <td>2022-04-27</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/4cacdc40ba04c077f357787e1aae5f27d62a068d" target="_blank">DataCamp: Data Manipulation in SQL</a></td>
-            <td>2023-11-11</td>
+            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DE603518A94C526041B4FE5A653E805E66787689AE4AC18AF477FA6BE074CA96" target="_blank">Oracle Cloud Infrastructure Foundations 2021 Associate</a></td>
+            <td>2021-12-21</td>
         </tr>
         <tr>
             <td><a href="https://courses.cognitiveclass.ai/certificates/af8599b9bacb41b58de30304bfbdd8b7" target="_blank">SQL and Relational Databases 101</a></td>
