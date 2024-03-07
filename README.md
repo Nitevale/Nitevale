@@ -55,6 +55,14 @@ Currently a graduating IT student
             <td>2022-04-27</td>
         </tr>
         <tr>
+            <td><a href="https://courses.cognitiveclass.ai/certificates/5c5ccebdf61543f1b0658e77fa8446db" target="_blank">Getting Started with Node.js</a></td>
+            <td>2024-03-05</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.credly.com/earner/earned/share/7fb3c01c-185f-4b1b-98ec-c9711f4de1b8" target="_blank">Introduction to Cybersecurity</a></td>
+            <td>2024-03-05</td>
+        </tr>
+        <tr>
             <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=723FFD2D149CC24E18DCCDFFBC8B1BD045ED3685A381D759157621A23088914D" target="_blank">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
             <td>2021-12-09</td>
         </tr>
@@ -69,10 +77,6 @@ Currently a graduating IT student
         <tr>
             <td><a href="https://courses.cognitiveclass.ai/certificates/af8599b9bacb41b58de30304bfbdd8b7" target="_blank">SQL and Relational Databases 101</a></td>
             <td>2023-11-09</td>
-        </tr>
-      <tr>
-            <td><a href="https://courses.cognitiveclass.ai/certificates/5c5ccebdf61543f1b0658e77fa8446db" target="_blank">Getting Started with Node.js</a></td>
-            <td>2024-03-05</td>
         </tr>
     </table>
 </div>
