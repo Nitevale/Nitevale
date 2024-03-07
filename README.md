@@ -70,6 +70,10 @@ Currently a graduating IT student
             <td><a href="https://courses.cognitiveclass.ai/certificates/af8599b9bacb41b58de30304bfbdd8b7" target="_blank">SQL and Relational Databases 101</a></td>
             <td>2023-11-09</td>
         </tr>
+      <tr>
+            <td><a href="https://courses.cognitiveclass.ai/certificates/5c5ccebdf61543f1b0658e77fa8446db" target="_blank">Getting Started with Node.js</a></td>
+            <td>2024-03-05</td>
+        </tr>
     </table>
 </div>
 
