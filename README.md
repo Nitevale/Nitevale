@@ -13,7 +13,7 @@
 </div>
 
 # >About:
-Currently a graduating IT student
+An IT graduate
 
 
 # >Socials:
